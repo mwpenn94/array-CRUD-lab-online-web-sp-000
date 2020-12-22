@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  array_methods = ["unshift_shovel_push" "shift_pop",  ]
+  array_methods = ["unshift_shovel_push", "shift_pop", "dot_first__dot_last", "index"  ]
 end
 
 def add_element_to_end_of_array(array, element)
